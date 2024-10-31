@@ -1,0 +1,52 @@
+body,html
+{
+    background-color:lightseagreen;
+    margin: 10px;
+    padding: 30px;
+}
+h2
+{
+    font-style: italic;
+    background-color: rgb(206, 187, 216);
+}
+.div1 
+{
+    height: 350px;
+    width: 300px;
+    background-color: rgb(179, 222, 25);
+}
+
+#general
+{
+    background-color: rgb(183, 187, 126);
+    font-style: normal;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:rgb(197, 238, 92);
+  }
+  li a {
+    float: left;
+  }
+ 
+  li a {
+    display: block;
+    color: rgb(201, 11, 11);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color:powderblue;
+  }
+.div2
+{
+    float: right;
+height: 400;
+width: 400;
+background-color: rgb(165, 42, 116);
+}
+
